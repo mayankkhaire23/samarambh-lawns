@@ -1,0 +1,108 @@
+Prompt for Replit AI (NTON) – Premium Website for Samarambh Lawns
+
+Create a luxury, premium, and modern wedding lawn website for Samarambh Lawns inspired by the elegance of high-end venues like The Leela Palace. The website should make visitors instantly feel that Samarambh is an exclusive destination for unforgettable celebrations.
+
+Design Style
+
+- Minimal and sophisticated.
+- Rich emerald green (#0E8A4A) inspired by the Samarambh logo.
+- Elegant gold accents (#D4AF37) for luxury.
+- Clean white backgrounds with plenty of spacing.
+- Use premium serif fonts for headings (similar to Playfair Display) and modern sans-serif fonts for body text.
+- Smooth animations and subtle hover effects.
+- Mobile-first responsive design.
+
+Hero Section
+
+- Full-screen hero section with a cinematic video or slideshow of beautifully decorated weddings.
+- Overlay text:
+  "Where Celebrations Become Timeless Memories."
+- Subtext:
+  "Samarambh Lawns – The Perfect Destination for Weddings, Receptions & Grand Events."
+- Two premium CTA buttons:
+  - Book a Visit
+  - View Gallery
+
+Navigation Bar
+
+- Transparent on top and turns solid emerald green on scroll.
+- Menu Items:
+  - Home
+  - About
+  - Gallery
+  - Packages
+  - Amenities
+  - Testimonials
+  - Contact
+
+About Section
+
+- Storytelling layout explaining Samarambh's commitment to creating memorable celebrations.
+- Include elegant decorative patterns inspired by the logo.
+
+Gallery Section
+
+- Masonry image layout.
+- Lightbox effect on click.
+- Showcase weddings, receptions, decorations, and night views.
+
+Amenities Section
+
+Display premium icon cards:
+
+- Spacious Lawn
+- Ample Parking
+- Catering Support
+- Decoration Services
+- Generator Backup
+- Bridal Room
+- Security
+- Guest Seating
+
+Packages Section
+
+- Beautiful pricing cards.
+- Highlight "Most Popular" package.
+- Include capacity and services.
+
+Testimonials
+
+- Luxury card carousel.
+- Reviews from happy couples and families.
+- Include star ratings.
+
+Contact Section
+
+- Inquiry form.
+- WhatsApp floating button.
+- Click-to-call button.
+- Embedded Google Maps.
+- Address and contact details.
+
+Footer
+
+- Samarambh logo.
+- Social media icons.
+- Copyright notice.
+- Quick links.
+
+Animations & Effects
+
+- Smooth scrolling.
+- Fade-in sections on scroll.
+- Elegant image zoom effects.
+- Soft shadows.
+- Premium transitions without being flashy.
+
+Technical Requirements
+
+- Use React with modern component structure.
+- Tailwind CSS for styling.
+- Optimized images and fast loading.
+- SEO-friendly structure.
+- Responsive for mobile, tablet, and desktop.
+- Clean, production-ready code.
+
+Important Instruction
+
+Avoid clutter. Focus on elegance, trust, and luxury. Every section should feel premium and exclusive, making visitors think: "This is the perfect venue for our special day."

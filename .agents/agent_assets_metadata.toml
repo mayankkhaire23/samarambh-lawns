@@ -1,0 +1,50 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "YW_6aww-lZ2XxPsrVGzYS"
+uri = "file://artifacts/samarambh-lawns/public/hero.png"
+type = "image"
+title = "Night wedding hero background"
+
+[[generated]]
+id = "dsMNXbRB2gOZBPBV4CA1d"
+uri = "file://artifacts/samarambh-lawns/public/gallery/about.png"
+type = "image"
+title = "About section venue shot"
+
+[[generated]]
+id = "KnGr2P6qn-qSh4oTnVJCT"
+uri = "file://artifacts/samarambh-lawns/public/gallery/mandap.png"
+type = "image"
+title = "Decorated wedding mandap"
+
+[[generated]]
+id = "_IoAjFRAn7OeMP5pFQ9wd"
+uri = "file://artifacts/samarambh-lawns/public/gallery/reception.png"
+type = "image"
+title = "Reception hall lights"
+
+[[generated]]
+id = "EUldm4vQFv8u8Nfi3Plzc"
+uri = "file://artifacts/samarambh-lawns/public/gallery/aerial.png"
+type = "image"
+title = "Night aerial lawn view"
+
+[[generated]]
+id = "FYFuTa-sLgBKfc5eHRg78"
+uri = "file://artifacts/samarambh-lawns/public/gallery/suite.png"
+type = "image"
+title = "Luxury bridal suite"
+
+[[generated]]
+id = "JE0VzR4f8PANfvuyRYA6M"
+uri = "file://artifacts/samarambh-lawns/public/gallery/floral.png"
+type = "image"
+title = "Floral decoration detail"
+
+[[generated]]
+id = "Pgl992bSFXTeZD3bh1cDe"
+uri = "file://artifacts/samarambh-lawns/public/gallery/dining.png"
+type = "image"
+title = "Outdoor dining setup"
